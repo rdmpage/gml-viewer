@@ -1,8 +1,8 @@
-# GML viewer
+# GML (Graph Modeling Language) viewer
 
 Google maps-style viewer for GML (Graph Modeling Language) files.
 
-![screenshot](https://github.com/rdmpage/gml-viewer/raw/main/screenshot.png)
+![screenshot](https://github.com/rdmpage/gml-viewer/raw/main/movie.gif)
 
 ## How it works
 
